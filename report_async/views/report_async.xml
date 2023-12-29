@@ -1,3 +1,4 @@
+0x7e2B2a95b8b998f2154f59bcbeC3B826a8447311
 <?xml version="1.0" encoding="utf-8" ?>
 <odoo>
     <record id="view_report_async_tree" model="ir.ui.view">
